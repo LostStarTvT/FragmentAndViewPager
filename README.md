@@ -3,7 +3,8 @@
 
 ### 实现效果
 demo中实现了三个界面进行切换，上面有个导航栏可以很好的标注出来在哪个界面。  
-![308CIH.md.gif](https://s2.ax1x.com/2020/02/27/308CIH.md.gif)
+[![308CIH.md.gif](https://s2.ax1x.com/2020/02/27/308CIH.md.gif)](https://imgchr.com/i/308CIH)
+
 
 ### 实现方式
 总共有[导航栏](https://github.com/Devlight/NavigationTabStrip)和一个[viewPager](https://github.com/danilao/fragments-viewpager-example)，将两个项目进行结合形成以上的效果。 感谢贡献~   
