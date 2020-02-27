@@ -3,7 +3,7 @@
 
 ### 实现效果
 demo中实现了三个界面进行切换，上面有个导航栏可以很好的标注出来在哪个界面。  
-[![308CIH.md.gif](https://s2.ax1x.com/2020/02/27/308CIH.md.gif)](https://imgchr.com/i/308CIH)
+![308CIH.gif](https://s2.ax1x.com/2020/02/27/308CIH.gif)
 
 
 ### 实现方式
