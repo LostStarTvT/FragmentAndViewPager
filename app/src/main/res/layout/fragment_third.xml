@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0f0">
+    android:background="#3fb58e">
 
     <TextView
         android:id="@+id/tv"
@@ -10,11 +10,6 @@
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
         android:text="third_fragment" />
-    <Button
-        android:id="@+id/btn"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:layout_width="wrap_content"
-        android:text="to_static_fragment"/>
+
 
 </RelativeLayout>

@@ -10,11 +10,6 @@
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
         android:text="first_fragment" />
-    <Button
-        android:id="@+id/btn"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:layout_width="wrap_content"
-        android:text="to_second_fragment"/>
+
 
 </RelativeLayout>

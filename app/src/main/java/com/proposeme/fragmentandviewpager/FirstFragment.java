@@ -18,30 +18,7 @@ public class FirstFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_first, container, false);
 
-        Button btn = (Button) view.findViewById(R.id.btn);
 
-        btn.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-//                FragmentTransaction trans = getFragmentManager()
-//                        .beginTransaction();
-//                /*
-//                 * IMPORTANT: We use the "root frame" defined in
-//                 * "root_fragment.xml" as the reference to replace fragment
-//                 */
-//                trans.replace(R.id.fragment_second, new SecondFragment());
-//
-//                /*
-//                 * IMPORTANT: The following lines allow us to add the fragment
-//                 * to the stack and return to it later, by pressing back
-//                 */
-//                trans.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN);
-//                trans.addToBackStack(null);
-//
-//                trans.commit();
-            }
-        });
 
         return view;
     }
